@@ -1,1 +1,1 @@
-this is a readme of git practice
+this is a readme of git practice modified with commit C3(overall) on master (2nd commit on master)
